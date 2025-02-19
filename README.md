@@ -607,6 +607,7 @@ Display Settings:
 You can use the `eid-metrics` command to print out the total number and percentage of event IDs (`<System><EventID>` field) seperated by channels.
 This command does not use any detection rules so will scan all events.
 
+
 ```
 Usage: eid-metrics <INPUT> [OPTIONS]
 
